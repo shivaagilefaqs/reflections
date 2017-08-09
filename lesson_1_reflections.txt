@@ -1,0 +1,18 @@
+just learnt how to compare 
+different versions of a file 
+using windows command prompt 
+and FC command.
+Diff -u is used in a 
+linux environment
+it is easier to find bugs
+understand how the code was written
+make corrections
+manual - logical commits
+automatic- too many versions
+automatic - good if you do not commit often
+saving multiple files at the sametime alloows
+us to get a snapshot view
+git log is used to get a log of all the commits
+git diff is used to understand th difference in 2 commits
+git checkout allows us to go back to a previous version of the file
+
