@@ -9,6 +9,9 @@ working directory is available in the local system. Staging area is used by git 
 ommit
 How can you use the staging area to make sure you have one commit per logical
 change?
+It allows us to review the changes made to the file and only commit that we want to.
+
+
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
