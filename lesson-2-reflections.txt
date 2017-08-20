@@ -15,11 +15,13 @@ It allows us to review the changes made to the file and only commit that we want
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+allows us to make changes without changing the master.
+Helps in situations where you are trying something new and are not sure you want to commit to master 
 
 How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
-What are the pros and cons of Git's automatic merging vs. always doing merges
+What are the pros and cons of Git's autmatic merging vs. always doing merges
 manually?
