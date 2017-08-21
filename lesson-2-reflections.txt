@@ -30,3 +30,6 @@ when 2 branches are merged , the differences are added to the master branch.
 
 What are the pros and cons of Git's autmatic merging vs. always doing merges
 manually?
+
+automatic - if git does not get any merge conflicts
+Manually - when there are merge conflicts
