@@ -24,6 +24,9 @@ we understand the parent of each node and whether the node is reachable
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+when 2 branches are merged , the differences are added to the master branch.
+
+
 
 What are the pros and cons of Git's autmatic merging vs. always doing merges
 manually?
